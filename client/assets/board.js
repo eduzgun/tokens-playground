@@ -38,13 +38,8 @@ document.getElementById("post-form").addEventListener("submit", async (e) => {
 })
 
 async function loadPosts () {
-
-    const options = {
-        headers: {
-            'Authorization': localStorage.getItem("token")
-        }
-    }
-    const response = await fetch("http://localhost:3000/posts", options);
+    
+    const response = await fetch("http://localhost:3000/posts");
 
     if (response.status == 200) {
         const posts = await response.json();
