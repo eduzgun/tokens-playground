@@ -1,4 +1,4 @@
-# %MODULE-NAME%
+# Security
 
 This repository contains resources (including exemplars, instructions, and starter code) for the **%MODULE-NAME%** module.
 
@@ -14,4 +14,5 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| resource_name | `branch_name` |
+| Implementing Auth | `implementing-auth` |
+| Implementing Auth (Exemplar) | `implementing-auth-complete` |
