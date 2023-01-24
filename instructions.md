@@ -1,6 +1,6 @@
 # Instructions
 
-There are no resources stored on the main branch of this repository; switch branches to see the options.
+This branch of the repository contains an incomplete app that needs auth implementing.
 
 ---
 
