@@ -1,6 +1,6 @@
 # Security
 
-This repository contains resources (including exemplars, instructions, and starter code) for the **%MODULE-NAME%** module.
+This repository contains resources (including exemplars, instructions, and starter code) for the Security module.
 
 ## Set-up
 
